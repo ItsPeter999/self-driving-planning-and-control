@@ -9,11 +9,13 @@ DYC control is added, with yaw rate and center of mass sideslip angle as inputs,
 
 ## content
 
-![](IMG_1676.PNG)
+![](effect/Frame.PNG)
 
 ## effect
 
+![](effect/control_effect.PNG)
 
+![](effect/DYC_effect.PNG)
 
 ## get started
 
