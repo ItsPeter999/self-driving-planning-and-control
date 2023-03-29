@@ -15,6 +15,15 @@ DYC control is added, with yaw rate and center of mass sideslip angle as inputs,
 
 
 
+## get started
+
+1. MATLAB 2022a
+2. Carsim 2019
+3. PreScan
+4. install [MPT3 toolbox](https://www.mpt3.org)
+5. install [YALMIP](https://yalmip.github.io)
+
+
 ## to do
 
 1. control part
