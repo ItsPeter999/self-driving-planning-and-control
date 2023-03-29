@@ -1,2 +1,2 @@
 # self-driving-planning-and-control
-temp
+After watching the videoes of "[忠厚老实的老王](https://space.bilibili.com/287989852/?spm_id_from=333.999.0.0)" on bilibili, based on [his framework](https://github.com/VincentWong3?tab=repositories), the algorithm of the trajectory tracking part has been enriched, and the DYC stability control has been added, making the tracking effect better and the yaw stability improved.
