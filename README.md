@@ -9,7 +9,7 @@ DYC control is added, with yaw rate and center of mass sideslip angle as inputs,
 
 ## Model framework
 
-<img src="effect/Frame.PNG" width="600px" />
+<img src="effect/Frame.jpg" width="600px" />
 
 ## Performance
 
