@@ -7,6 +7,14 @@ Based on the original framework, MPC (Model Predictive Control for Unmanned Vehi
 
 DYC control is added, with yaw rate and center of mass sideslip angle as inputs, and the additional torque of the four wheels as outputs.
 
+## content
+
+
+
+## effect
+
+
+
 ## to do
 
 1. control part
