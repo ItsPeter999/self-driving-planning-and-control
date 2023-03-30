@@ -1,0 +1,27 @@
+% 规划控制效果测试
+
+%% LQR
+% 跟踪效果(红色实际，绿色理想)
+% plot(LQR_x_host,LQR_y_host,'r',LQR_x_ref,LQR_y_ref,'g');
+% legend('real','ideal');
+
+% 绘制理想轨迹
+% plot(LQR_x_ref,LQR_y_ref,'g');
+% legend('ideal path');
+
+%% MPC
+% 跟踪效果（红色实际，绿色理想）
+% plot(MPC_x_host,MPC_y_host,'r',MPC_x_ref,MPC_y_ref,'g');
+% legend('real','ideal');
+
+% 绘制理想轨迹
+% plot(MPC_x_ref,MPC_y_ref,'g');
+% legend('ideal path');
+
+%% 对比
+% LQR红色，MPC黄色，全局路径绿色
+% plot(LQR_x_ref,LQR_y_ref,'r',MPC_x_ref,MPC_y_ref,'y',global_path_x,global_path_y, 'g');
+legend('LQR', 'MPC', 'ideal');
+
+% 比较两个方法
+% plot(global_path_x,global_path_y, 'g',control_debug.LQR_debug.host_x.data,control_debug.LQR_debug.host_y.data,'r',MPC_x_host,MPC_y_host,'y');
