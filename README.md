@@ -35,8 +35,8 @@ y:error(m)    x:time(s)
 ## To Do
 
 1. control part
-- [ ] The performance of EMPC needs to be improved
+- [ ] The performance of EMPC can be improved
 2. DYC part
-- [ ] DYC is the most basic sliding mode control and needs to be optimized
+- [x] DYC is needed to improve the yaw stability
 3. longitudinal speed planning needs to be optimized
-- [ ] content of graduation thesis
+- [ ] This is th content of my graduation thesis
