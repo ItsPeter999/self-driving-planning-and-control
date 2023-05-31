@@ -15,7 +15,8 @@ DYC control is added, with yaw rate and center of mass sideslip angle as inputs,
 
 ### Control effect
 <img src="effect/control_effect.PNG" width="400px" height="300px"/>
-y:error(m)          x:time(s)
+y:error(m)
+x:time(s)
 
 LQR:by Wang
 MPC:by Gong
@@ -24,7 +25,8 @@ EMPC:by MPT3
 
 ### DYC effect
 <img src="effect/DYC_effect.PNG" width="400px" height="300px"/>
-y:yaw_rate(m)       x:time(s)
+y:yaw_rate(rad/s)
+x:time(s)
 
 ## Get started
 
