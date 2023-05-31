@@ -21,7 +21,7 @@ LQR:by Wang    MPC:by Gong    MPC2:by YALMIP    EMPC:by MPT3
 
 ### DYC effect
 <img src="effect/DYC_effect.PNG" width="400px" height="300px"/>
-y:error(m)    x:time(s)
+y:yaw_rate(m)    x:time(s)
 
 ## Get started
 
